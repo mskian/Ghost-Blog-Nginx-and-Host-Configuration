@@ -32,5 +32,5 @@ Best Ghost Nginx Blog Configuration for Ghost blog CMS
 
 Here is Full Installation Guide to Install Ghost Blog CMS on Ubuntu with Free SSL and HTTP/2 - <a href="https://itrendbuzz.com/install-ghost-blog-cms-on-ubuntu/">Read Now</a>
 
-(C) 2017 Itrendbuzz.com.
+(C) 2017 itrendbuzz.com
 
