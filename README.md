@@ -2,9 +2,29 @@
 
 Best Ghost Nginx Blog Configuration for Ghost blog CMS 
 
+### ghost.service
+
+```sh
+
+/etc/systemd/system/ghost.service
+
+```
+
+### ghost.conf
+
+```sh
+
+/etc/nginx/conf.d/ghost.conf
+
+```
+
+### Features
+
+
 - Secure SSL
 - Force SSL
 - Nginx Proxy
+
 
 <p>Fork this github repository</p>
 <p>Every Month we will update this Respository</p>
