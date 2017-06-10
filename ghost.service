@@ -1,0 +1,22 @@
+[Unit]
+Description=ghost  
+After=network.target
+
+[Service]
+Type=simple  
+WorkingDirectory=/var/www/ghost
+
+ExecStart=/usr/bin/npm start --production  
+ExecStop=/usr/bin/npm stop --production  
+Restart=always  
+SyslogIdentifier=Ghost
+
+User=ghost  
+Group=ghost  
+ProtectSystem=full  
+ProtectHome=yes  
+PrivateTmp=yes  
+PrivateDevices=yes
+
+[Install]
+WantedBy=multi-user.target
