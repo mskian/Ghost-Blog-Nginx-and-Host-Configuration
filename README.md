@@ -26,11 +26,11 @@ Best Ghost Nginx Blog Configuration for Ghost blog CMS
 - Nginx Proxy
 
 
-<p>Fork this github repository</p>
-<p>Every Month we will update this Respository</p>
-<p>After Configuration test</p>
+> <p>Fork this github repository</p>
+> <p>Every Month we will update this Respository</p>
+> <p>After Configuration test</p>
 
-<p>Maintained by Santhosh veer</p>
+===<p>Maintained by Santhosh veer</p>===
 
 Here is Full Installation Guide to Install Ghost CMS on Ubuntu with Free SSL and HTTP/2 - <a href="https://itrendbuzz.com/install-ghost-blog-cms-on-ubuntu/">Read Now</a>
 
