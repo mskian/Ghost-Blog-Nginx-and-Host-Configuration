@@ -34,7 +34,7 @@ sudo nano /var/www/ghost/system/files/ssl-params.conf
 File  - example.com.conf
 
 ```
-# Redirect HTTP to HTTPS - Remove this if you are Not Configuring SSL for your Gost Blog
+# Redirect HTTP to HTTPS - Remove this if you are Not Configuring SSL for your Ghost Blog
     if ($scheme = http) {
         return 301 https://$server_name$request_uri;
     }
@@ -47,7 +47,6 @@ Files - example.com.conf and  example.com-ssl.conf
 
 ```
  proxy_hide_header X-powered-by;
- 
  ```
 
 ### Remove x-xss-protection
