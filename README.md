@@ -63,6 +63,14 @@ File - ssl-params.conf
 add_header x-xss-protection "1; mode=block" always;
 ```
 
+### Remove Nginx Version and OS Name
+
+File - nginx.conf
+
+- Find this Line `#server_tokens off;`
+- Remove **#** from the Line
+- Save the Nginx File and Restart (For Gzip Compression check our nginx.conf file)
+
 ### Features
 
 
