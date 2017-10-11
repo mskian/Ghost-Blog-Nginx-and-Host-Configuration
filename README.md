@@ -26,6 +26,12 @@ sudo nano /var/www/ghost/system/files/ssl-params.conf
 
 ```
 
+### nginx.conf
+
+```sh
+sudo nano /etc/nginx/nginx.conf
+```
+
 <p>These files generate and Configure while installing Ghost via Ghost-CLI</p>
 <p>I add extra functions on the Nginx and Host configuration file</p>
 
