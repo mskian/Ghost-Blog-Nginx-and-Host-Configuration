@@ -49,7 +49,7 @@ Files - example.com.conf and  example.com-ssl.conf
  proxy_hide_header X-powered-by;
  ```
 
-### Remove x-xss-protection
+### Add x-xss-protection on Header
  
 File - ssl-params.conf
 
