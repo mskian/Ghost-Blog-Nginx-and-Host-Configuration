@@ -22,7 +22,7 @@ sudo nano /var/www/ghost/system/files/example.com-ssl.conf
 
 ```sh
 
-sudo nano /var/www/ghost/system/files/ssl-params.conf
+sudo nano /etc/nginx/snippets/ssl-params.conf
 
 ```
 
