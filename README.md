@@ -97,6 +97,6 @@ File - nginx.conf
 
 Here is Full Installation Guide to Install Ghost Blog CMS on Ubuntu with Free SSL and HTTP/2 - <a href="https://itrendbuzz.com/install-ghost-cli-on-digitalocean/">Read Now</a>
 
-(C) 2017 itrendbuzz.com
+(C) 2017-2018 itrendbuzz.com
 
 
